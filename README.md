@@ -1,6 +1,6 @@
 # Cosmopolitan
 Recette: 
-- 1,5cl Liqueur d'orange Cointreau
-- 3cl Vodka Zubrowka
-- 1.5cl Jus de citron vert
-- 1cl Jus de cranberry
+- 3cl Liqueur d'orange Cointreau
+- 6cl Vodka Zubrowka
+- 3cl Jus de citron vert
+- 2cl Jus de cranberry
